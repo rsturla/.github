@@ -1,27 +1,30 @@
 <h1 align="center">Hi :wave:, I'm Robert Sturla</h1>
 
-<h3 align="center">A passionate DevOps Engineer from UK</h3>
+<h3 align="center">A DevOps Engineer from UK</h3>
 
 <br/>
 
-I'm a DevOps Engineer with a passion for automation and cloud technologies.
-I've been working in Software Engineering (Dev and DevOps) for over 3 years now, and have over a year of AWS experience.
 
+I'm a DevOps Engineer with a passion for automation and cloud technologies.
+I've been working in Software Engineering (Dev/DevOps) for over 3 years now, and have over a year of professional AWS experience.
 
 <br/>
 
 
 ### :mag: More about me
 
-* :office: &nbsp; I’m currently working in [IMMO](https://www.immo.capital) as a **DevOps Engineer**
+* :office: &nbsp; I’m currently working at [IMMO](https://github.com/immocapital) as a **DevOps Engineer**
 
 * :computer: &nbsp; Where I'm **Designing the future of IMMO's Cloud Infrastructure**
 
-* :mailbox_with_mail: &nbsp; Feel free to reach out to me on [**LinkedIn**](https://www.linkedin.com/in/robert-sturla/) or via [**Email**](mailto:robertsturla+github@outlook.com)
-
 * :house_with_garden: &nbsp; In my free time, I enjoy playing **video games**, watching **tech conferences**, and taking my **dog for long walks** through the woods
 
-* :books: &nbsp; I’m currently learning **Cloud Cybersecurity**
+* :books: &nbsp; I’m currently learning **Cybersecurity** and **Immutable Infrastructure**
+
+* :superhero: &nbsp; My superpower is being able to **absorb information like a sponge**
+
+* :mailbox_with_mail: &nbsp; Feel free to reach out to me on [**LinkedIn**](https://www.linkedin.com/in/robert-sturla/) or via [**Email**](mailto:robertsturla+github@outlook.com)
+
 
 <br/>
 
