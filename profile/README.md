@@ -6,7 +6,7 @@
 
 
 I'm a Platform/DevOps Engineer with a passion for automation and cloud technologies.
-I've been working in Software Engineering (Dev/DevOps) for over 4 years now, and have over two years of professional AWS experience.
+I've been working in Software Engineering (Dev/DevOps) for over four years now, and have over two years of professional AWS experience.
 
 <br/>
 
