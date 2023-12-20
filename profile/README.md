@@ -1,25 +1,25 @@
 <h1 align="center">Hi :wave:, I'm Robert Sturla</h1>
 
-<h3 align="center">A DevOps Engineer from UK</h3>
+<h3 align="center">A Platform Engineer from UK</h3>
 
 <br/>
 
 
-I'm a DevOps Engineer with a passion for automation and cloud technologies.
-I've been working in Software Engineering (Dev/DevOps) for over 3 years now, and have over a year of professional AWS experience.
+I'm a Platform/DevOps Engineer with a passion for automation and cloud technologies.
+I've been working in Software Engineering (Dev/DevOps) for over four years now, and have over two years of professional AWS experience.
 
 <br/>
 
 
 ### :mag: More about me
 
-* :office: &nbsp; I’m currently working at [IMMO](https://github.com/immocapital) as a **DevOps Engineer**
+* :office: &nbsp; I’m currently working at [IMMO](https://github.com/immocapital) as a **Senior DevOps Engineer**
 
 * :computer: &nbsp; Where I'm **Designing the future of IMMO's Cloud Infrastructure**
 
 * :house_with_garden: &nbsp; In my free time, I enjoy playing **video games**, watching **tech conferences**, and taking my **dog for long walks** through the woods
 
-* :books: &nbsp; I’m currently learning **Cybersecurity** and **Immutable Infrastructure**
+* :books: &nbsp; I’m currently learning **Cybersecurity** and **Immutable Infrastructure** (Check out my [**Eternal Linux project**](https://github.com/rsturla/eternal-images!)!)
 
 * :superhero: &nbsp; My superpower is being able to **absorb information like a sponge**
 
@@ -52,11 +52,15 @@ And many more...
 
 ### :memo: Latest Blog Posts
 
-Coming soon...
+- [Principle of Least Privilege](https://robert.sturla.tech/blog/principle-of-least-privilege/)
+
+More coming soon...
 
 <br/>
 
 
 ### :computer: Projects
 
-Coming soon...
+- [Eternal Linux](https://github.com/rsturla/eternal-images)
+
+More coming soon...
