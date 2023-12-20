@@ -19,7 +19,7 @@ I've been working in Software Engineering (Dev/DevOps) for over 4 years now, and
 
 * :house_with_garden: &nbsp; In my free time, I enjoy playing **video games**, watching **tech conferences**, and taking my **dog for long walks** through the woods
 
-* :books: &nbsp; I’m currently learning **Cybersecurity** and **Immutable Infrastructure** (Check out my [**Eternal Linux project**](https://github.com/rsturla/eternal-images!)!
+* :books: &nbsp; I’m currently learning **Cybersecurity** and **Immutable Infrastructure** (Check out my [**Eternal Linux project**](https://github.com/rsturla/eternal-images!)!)
 
 * :superhero: &nbsp; My superpower is being able to **absorb information like a sponge**
 
