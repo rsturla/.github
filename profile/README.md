@@ -6,14 +6,14 @@
 
 
 I'm a Platform/DevOps Engineer with a passion for automation and cloud technologies.
-I've been working in Software Engineering (Dev/DevOps) for over four years now, and have over two years of professional AWS experience.
+I've been working in Software Engineering for over four years now, and have over two years of experience with AWS.
 
 <br/>
 
 
 ### :mag: More about me
 
-* :office: &nbsp; I’m currently working at [IMMO](https://github.com/immocapital) as a **Senior DevOps Engineer**
+* :office: &nbsp; I’m currently working at [IMMO](https://github.com/immocapital) as a **Senior Platform Engineer**
 
 * :computer: &nbsp; Where I'm **Designing the future of IMMO's Cloud Infrastructure**
 
