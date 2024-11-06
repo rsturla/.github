@@ -1,25 +1,23 @@
 <h1 align="center">Hi :wave:, I'm Robert Sturla</h1>
 
-<h3 align="center">A Platform Engineer from UK</h3>
+<h3 align="center">A Security Engineer from UK</h3>
 
 <br/>
 
 
-I'm a Platform/DevOps Engineer with a passion for automation and cloud technologies.
-I've been working in Software Engineering for over four years now, and have over two years of experience with AWS.
+I'm a Security Engineer with a passion for automation and cloud technologies.
+I've been working in Software Engineering for five years, have over three years of experience with AWS and recently made the transition into Cybersecurity.  
 
 <br/>
 
 
 ### :mag: More about me
 
-* :office: &nbsp; I’m currently working at [IMMO](https://github.com/immocapital) as a **Senior Platform Engineer**
+* :office: &nbsp; I’m currently working at [Tesco Bank](https://www.tescobank.com/) as a **Security Engineer**
 
-* :computer: &nbsp; Where I'm **Designing the future of IMMO's Cloud Infrastructure**
+* :computer: &nbsp; Where I'm **part of a specialized team dedicated to implementing comprehensive security solutions across cloud and device security, and governance frameworks**
 
 * :house_with_garden: &nbsp; In my free time, I enjoy playing **video games**, watching **tech conferences**, and taking my **dog for long walks** through the woods
-
-* :books: &nbsp; I’m currently learning **Cybersecurity** and **Immutable Infrastructure** (Check out my [**Eternal Linux project**](https://github.com/rsturla/eternal-images!)!)
 
 * :superhero: &nbsp; My superpower is being able to **absorb information like a sponge**
 
