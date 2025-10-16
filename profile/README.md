@@ -1,21 +1,21 @@
 <h1 align="center">Hi :wave:, I'm Robert Sturla</h1>
 
-<h3 align="center">A Security Engineer from UK</h3>
+<h3 align="center">A Software Engineer from UK</h3>
 
 <br/>
 
 
-I'm a Security Engineer with a passion for automation and cloud technologies.
-I've been working in Software Engineering for five years, have over three years of experience with AWS and recently made the transition into Cybersecurity.  
+I'm a Software Engineer with a passion for automation and cloud technologies.
+I've been working in Software Engineering for five years, have over three years of experience with AWS and am a contributor to [Universal Blue](https://universal-blue.org/).
 
 <br/>
 
 
 ### :mag: More about me
 
-* :office: &nbsp; I’m currently working at [Tesco Bank](https://www.tescobank.com/) as a **Security Engineer**
+* :office: &nbsp; I’m currently working at [Red Hat](https://www.redhat.com/) as a **Software Engineer**
 
-* :computer: &nbsp; Where I'm **part of a specialized team dedicated to implementing comprehensive security solutions across cloud and device security, and governance frameworks**
+* :computer: &nbsp; Where I'm **doing something**
 
 * :house_with_garden: &nbsp; In my free time, I enjoy playing **video games**, watching **tech conferences**, and taking my **dog for long walks** through the woods
 
